@@ -10,4 +10,4 @@ I'm a software engineer working on payments and card infrastructure, and most of
 ### Contact
 
 - GitHub: [@ashmht](https://github.com/ashmht)
-- Email: _<add preferred public email>_
+- Email: [ashish.g.mehta21@gmail.com](mailto:ashish.g.mehta21@gmail.com)
